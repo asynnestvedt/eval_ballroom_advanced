@@ -1,8 +1,8 @@
-# Advanced Ballroom Dancing AI Microservice Challenge
+# Advanced Ballroom Dancing Microservice Challenge
 
 ## Introduction
 
-In this challenge, you will design and develop a microservice that merges AI-driven technology with ballroom dancing logistics. Your task is to create a RESTful API, containerized with Docker, complemented by well-written tests and clear documentation. This version introduces a calculation component for determining how many dance partners a person gets to dance with on average in a ballroom with specific constraints.
+In this challenge, you will design and develop a microservice with ballroom dancing logistics. Your task is to create a RESTful API, containerized with Docker, complemented by well-written tests and clear documentation. This version introduces a calculation component for determining how many dance partners a person gets to dance with on average in a ballroom with specific constraints.
 
 ### Key Requirements
 
@@ -12,7 +12,7 @@ In this challenge, you will design and develop a microservice that merges AI-dri
 - **Testing**: Implement meaningful tests to cover various scenarios and edge cases.
 - **Documentation**: Provide detailed instructions in `README.md`.
 
-### The Challenge: AI-Powered Dance Partner Calculation
+### The Challenge: Dance Partner Calculation
 
 Create a REST API with a single POST endpoint that calculates the average number of different dance partners each participant will dance with based on specific inputs.
 
